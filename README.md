@@ -9,3 +9,5 @@ I am using BeautifulSoup to extract data from their webpage. The idea here it's 
 How can I use python to save time on such marketing tasks?
 
 Let's go!
+
+Click on the file called **SEM_Campaign_generator.ipynb** to see the project.
